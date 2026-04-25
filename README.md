@@ -34,6 +34,7 @@ Or add it to your `settings.json`:
 - **Background:** `#ffffff` (pure white)
 - **Text:** `#111827` (near-black)
 - **Syntax:** High-contrast colors for readability on light backgrounds
+- Best used with a light terminal theme.
 
 ## License
 
