@@ -2,7 +2,7 @@
 
 A clean, readable light theme for [pi](https://github.com/badlogic/pi-mono), the CLI coding agent.
 
-![Preview](preview.png)
+![Preview](docs/preview.png)
 
 ## Install
 
