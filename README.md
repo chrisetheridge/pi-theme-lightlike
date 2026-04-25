@@ -4,6 +4,8 @@ A clean, readable light theme for [pi](https://github.com/badlogic/pi-mono), the
 
 ![Preview](docs/preview.png)
 
+> Preview uses [this theme](https://github.com/chrisetheridge/ghostty-theme-claudelike).
+
 ## Install
 
 Drop the theme file into your global themes directory:
